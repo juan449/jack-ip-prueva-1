@@ -1,13 +1,34 @@
-# jack-ip-prueva-1
-solo es prueva
- PRUEVA  TERMUX 
- Lea la licencia antes de usar cualquier parte de este código :)
-Shell inverso mediante el archivo de registro de Windows (.reg).
-Funciones:
-Invierta el reenvío de puertos TCP mediante Ngrok.io
-Requisitos:
-Ngrok Authtoken (para túnel TCP): Regístrese en: https://ngrok.com/signup
-El authtoken está disponible en el panel de control: https://dashboard.ngrok.com
-Instale su auhtoken: ./ngrok authtoken <YOUR_AUTHTOKEN>
-El destino debe reiniciarse/volver a iniciar sesión después de instalar el archivo .reg
-Descargo de responsabilidad legal:
+# Evilreg v1.0
+## Author: github.com/thelinuxchoice
+## Twitter: twitter.com/linux_choice
+### Read the license before using any part from this code :) 
+
+Reverse shell using Windows Registry file (.reg).
+
+![re](https://user-images.githubusercontent.com/34893261/78690039-581ac680-78cd-11ea-87ad-5d7763fdbcdf.jpg)
+
+### Features:
+#### Reverse TCP Port Forwarding using Ngrok.io
+
+### Requirements:
+#### Ngrok Authtoken (for TCP Tunneling): Sign up at: https://ngrok.com/signup
+#### Your authtoken is available on your dashboard: https://dashboard.ngrok.com
+#### Install your auhtoken: ./ngrok authtoken <YOUR_AUTHTOKEN>
+#### Target must reboot/re-login after installing the .reg file
+
+## Legal disclaimer:
+
+Usage of Evilreg for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
+
+### Usage:
+```
+git clone https://github.com/thelinuxchoice/evilreg
+cd evilreg
+bash evilreg.sh
+```
+
+### Donate!
+Pay a coffee:
+### Paypal:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
+
