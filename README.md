@@ -22,13 +22,13 @@ Usage of Evilreg for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/evilreg
-cd evilreg
-bash evilreg.sh
-```
+pkg intall update 
+pkg intall git
 
-### Donate!
-Pay a coffee:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
+git clone https://github.com/juan449/jack-ip-prueva-1
+
+cd jack-ip-prueva-1
+
+bash jack-ip-prueva-1 .sh
+``
 
