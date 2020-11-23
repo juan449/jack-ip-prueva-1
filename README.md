@@ -1,4 +1,4 @@
-# Evilreg v1.0
+# jack-ip-prueva-1
 ## Author: github.com/thelinuxchoice
 ## Twitter: twitter.com/linux_choice
 ### Read the license before using any part from this code :) 
